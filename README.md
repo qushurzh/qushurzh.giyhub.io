@@ -1,1 +1,1 @@
-# qushurzh.giyhub.io
+# qushurzh.github.io
